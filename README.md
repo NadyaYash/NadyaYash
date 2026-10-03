@@ -22,7 +22,7 @@ Private, invite-only photo groups for families, friends, clubs, and teams, with 
 
 [Website](https://meinkreis.app/) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.kreis)
 
-<img src="assets/kreis.jpg" alt="Kreis private photo groups app" width="280">
+<a href="https://meinkreis.app/"><img src="assets/cards/kreis.png" alt="Kreis private photo groups project card" width="100%"></a>
 
 ### VERT — Altimeter & Ski Tracker
 
@@ -30,7 +30,7 @@ Offline altimeter and activity tracker for mountain days, designed around reliab
 
 [Website](https://vertaltimeter.app/) · [App Store](https://apps.apple.com/us/app/vert-altimeter-ski-tracker/id6791539934)
 
-<img src="assets/vert.webp" alt="VERT altimeter and ski tracker app" width="280">
+<a href="https://vertaltimeter.app/"><img src="assets/cards/vert.png" alt="VERT altimeter and ski tracker project card" width="100%"></a>
 
 ### PuzzleFree
 
@@ -38,7 +38,7 @@ Cross-platform jigsaw puzzle product with web, iOS, and Android distribution.
 
 [Website](https://puzzlefree.game/) · [App Store](https://apps.apple.com/us/app/jigsaw-puzzles-by-puzzlefree/id6751572041) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.puzzlefree)
 
-<img src="assets/puzzlefree.jpg" alt="PuzzleFree cross-platform jigsaw puzzle product" width="760">
+<a href="https://puzzlefree.game/"><img src="assets/cards/puzzlefree.png" alt="PuzzleFree cross-platform jigsaw puzzle project card" width="100%"></a>
 
 ### Block Puzzle Blast: FlowBlocks
 
@@ -46,7 +46,7 @@ An original mobile puzzle concept developed into a polished, store-ready product
 
 [Project page](https://nadzeyayashchuk.com/work/flowblocks-puzzle-game/) · [App Store](https://apps.apple.com/us/app/flowblocks-puzzle-game/id6762732976) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.flowblocks)
 
-<img src="assets/flowblocks.jpg" alt="FlowBlocks mobile puzzle game" width="280">
+<a href="https://nadzeyayashchuk.com/work/flowblocks-puzzle-game/"><img src="assets/cards/flowblocks.png" alt="FlowBlocks mobile puzzle game project card" width="100%"></a>
 
 ### Garmin Connect IQ Watch Faces
 
@@ -54,7 +54,7 @@ A growing catalog of watch faces prepared and published for Garmin Connect IQ, i
 
 [View the collection](https://nadzeyayashchuk.com/work/garmin-connect-iq-watch-faces/) · [Garmin developer profile](https://apps.garmin.com/developer/99d754d0-1b13-4e24-b3af-833f50bc1ad1/apps) · [WatchFaceKit](https://watchfacekit.com/)
 
-<img src="assets/garmin.jpg" alt="Garmin Connect IQ watch face" width="340">
+<a href="https://nadzeyayashchuk.com/work/garmin-connect-iq-watch-faces/"><img src="assets/cards/garmin.png" alt="Garmin Connect IQ watch faces project card" width="100%"></a>
 
 ### MushTrail: Forest Navigator
 
@@ -62,7 +62,7 @@ Offline forest navigation for foraging, with a home compass, saved locations, an
 
 [Website](https://mushtrail.com/) · [App Store](https://apps.apple.com/us/app/mushtrail-forest-navigator/id6792751719)
 
-<img src="assets/mushtrail.webp" alt="MushTrail forest navigation app" width="280">
+<a href="https://mushtrail.com/"><img src="assets/cards/mushtrail.png" alt="MushTrail forest navigation project card" width="100%"></a>
 
 ## Published apps
 
